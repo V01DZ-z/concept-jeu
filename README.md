@@ -53,7 +53,7 @@ Projet conçu en équipe avec : [José, Mathis, Tessier]
 - Les objets jouables : differents tanks
 - Croquis de l'interface :
 
-![Interface](interface.jpg)
+![Interface](croquis.jpg)
 
 ## Les ressources
 
