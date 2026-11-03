@@ -57,7 +57,7 @@ Projet conçu en équipe avec : [José, Mathis, Tessier]
 
 ## Les ressources
 
-![Image de référence](ressource.jpg)
+![Image de référence](photo1.jpg)
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
