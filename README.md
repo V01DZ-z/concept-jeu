@@ -47,7 +47,7 @@ Projet conçu en équipe avec : [José, Mathis, Tessier]
 
 - Le style visuel (et pourquoi il convient à votre jeu) : Géo-simpliste
 - La palette de couleurs : couleurs simples et primaires
-- Trois images de référence : [image 1] (https://www.bing.com/images/search?view=detailV2&ccid=EH1bUcbK&id=A9EDA8BB14BCF28D835A4D8134882FC633400A07&thid=OIP.EH1bUcbKn5et9SixggTq9QHaEc&mediaurl=https%3a%2f%2fmedia.rawg.io%2fmedia%2fresize%2f1280%2f-%2fscreenshots%2f9ac%2f9aca367b4fe9dde6592fd7d0dc9df0cc.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.107d5b51c6ca9f97adf528b18204eaf5%3frik%3dBwpAM8YviDSBTQ%26pid%3dImgRaw%26r%3d0&exph=480&expw=800&q=diep+.+io&FORM=IRPRST&ck=231D845ACB99DA6B8177D41A52E83B78&selectedIndex=12&itb=0&ajaxhist=0&ajaxserp=0) , [image 2] () , [image 3] ()
+- Trois images de référence : ![image 1] (https://www.bing.com/images/search?view=detailV2&ccid=EH1bUcbK&id=A9EDA8BB14BCF28D835A4D8134882FC633400A07&thid=OIP.EH1bUcbKn5et9SixggTq9QHaEc&mediaurl=https%3a%2f%2fmedia.rawg.io%2fmedia%2fresize%2f1280%2f-%2fscreenshots%2f9ac%2f9aca367b4fe9dde6592fd7d0dc9df0cc.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.107d5b51c6ca9f97adf528b18204eaf5%3frik%3dBwpAM8YviDSBTQ%26pid%3dImgRaw%26r%3d0&exph=480&expw=800&q=diep+.+io&FORM=IRPRST&ck=231D845ACB99DA6B8177D41A52E83B78&selectedIndex=12&itb=0&ajaxhist=0&ajaxserp=0) , [image 2] () , [image 3] ()
 
 - L'ambiance sonore : ...
 - Les objets jouables : ...
