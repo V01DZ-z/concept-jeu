@@ -47,8 +47,8 @@ Projet conçu en équipe avec : [José, Mathis, Tessier]
 
 - Le style visuel (et pourquoi il convient à votre jeu) : Géo-simpliste
 - La palette de couleurs : couleurs simples et primaires
-- Trois images de référence : [image 1](<img width="3839" height="1953" alt="image" src="https://github.com/user-attachments/assets/566036ed-b5ab-4ba9-95c2-56b5b9204115" />), [image 2](<img width="3839" height="1975" alt="image" src="https://github.com/user-attachments/assets/1250dc7f-d1c0-465b-bd3c-a6c1d9c1b7f7" />), [image 3](<img width="3838" height="1958" alt="image" src="https://github.com/user-attachments/assets/3f0602b8-8bc0-4af2-8865-66a5e198b586" />
-)
+- Trois images de référence : [image 1] photo1.png , [image 2] photo2.png, [image 3] photo3.png
+
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
